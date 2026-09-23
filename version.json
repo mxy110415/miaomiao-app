@@ -1,0 +1,5 @@
+{
+  "version": "0.5.1",
+  "url": "https://github.com/mxy110415/miaomiao-app/releases/latest/download/miaomiao-app-latest.apk",
+  "notes": "0.5.1：修复主界面点「微信」开关时确认弹窗被当成列表项、要滑到底才看得见的问题，现在改为正常居中弹出。"
+}
