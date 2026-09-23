@@ -1,5 +1,5 @@
 {
-  "version": "0.5.1",
+  "version": "0.6.0",
   "url": "https://github.com/mxy110415/miaomiao-app/releases/latest/download/miaomiao-app-latest.apk",
-  "notes": "0.5.1：修复主界面点「微信」开关时确认弹窗被当成列表项、要滑到底才看得见的问题，现在改为正常居中弹出。"
+  "notes": "0.6.0：设置页最下面新增「更新」板块 —— 可以手动检测更新、也可以开关「启动时自动检测更新」；打开应用会自动检查一次，发现新版本弹提示。"
 }
