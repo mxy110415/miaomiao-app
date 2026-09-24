@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/mxy110415/miaomiao-app/releases/latest/download/miaomiao-app-latest.apk",
-  "notes": "0.6.0：设置页最下面新增「更新」板块 —— 可以手动检测更新、也可以开关「启动时自动检测更新」；打开应用会自动检查一次，发现新版本弹提示。"
+  "version": "0.6.2",
+  "url": "https://miaomiao.xingran666.xyz/download/miaomiao-app-latest.apk",
+  "notes": "0.6.2：修掉两个真 bug —— 打没标点的句子完全不加喵、以及「喵」有时一闪就没。另外 0.6.1 起「末尾追加」改为在每个标点前插入自定义内容（默认喵），「波浪线喵」可选句号前插入或替换成「喵~」，并新增可自定义的触发标点。"
 }
