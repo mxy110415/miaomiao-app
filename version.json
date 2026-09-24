@@ -1,5 +1,5 @@
 {
-  "version": "0.6.3",
+  "version": "0.7.0",
   "url": "https://miaomiao.xingran666.xyz/download/miaomiao-app-latest.apk",
-  "notes": "0.6.3：点「去下载」现在会打开喵喵助手主页的下载页（不再直接跳 GitHub 直链）。0.6.2 修掉了两个真 bug：打没标点的句子完全不加喵、以及「喵」有时一闪就没。"
+  "notes": "0.7.0：设置页顶栏右侧新增官网入口，点一下直接打开喵喵助手主页。"
 }
